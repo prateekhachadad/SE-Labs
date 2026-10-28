@@ -17,3 +17,6 @@ Software Engineering Lab 3
 ## Lab 4
 
 Vibe Coding Lab 4 - Lunar Lander
+## Lab 5
+
+Static Code Analysis - Personal Expense Tracker (Pylint, Bandit, Flake8)
